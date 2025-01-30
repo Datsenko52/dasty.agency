@@ -44,7 +44,7 @@ body {
 }
 
 h1,
-h2,h5 {
+h2{
   color: white;
   text-align: center;
 
@@ -94,3 +94,10 @@ footer {
 .photo-gallery img:hover {
   transform: scale(1.1); /
 }
+p,p2{
+  font-size:25px;
+}
+h5{
+  color: white;
+  text-align: center;
+  font-size: 25px;
